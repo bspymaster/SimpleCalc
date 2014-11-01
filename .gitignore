@@ -14,6 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Geany batch files
+geany_run_script.bat
+
 # =========================
 # Operating System Files
 # =========================
